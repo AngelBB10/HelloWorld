@@ -1,4 +1,4 @@
-# Loop Fun
+# Exercise 04: Loop Fun
 
 print("\nLoop 1:")
 for i in range(10):

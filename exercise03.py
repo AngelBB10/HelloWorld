@@ -1,7 +1,8 @@
-# Playin' around
-elephant = True 
+# Exercise 03: Playing' around
 
-if (elephant is True):
-  print ('Hello')
+elephant = True
+
+if elephant is True:
+    print("Hello")
 else:
-  print ('Good Bye')
+    print("Good Bye")
