@@ -1,15 +1,15 @@
-#Loop Fun 
+# Loop Fun
 
-print('Loop 1')
+print("\nLoop 1:")
 for i in range(10):
-    if i < 5: 
-         print('Pikachu')
-    else: 
-        print('Venomat')
+    if i < 5:
+        print(" Pikachu")
+    else:
+        print(" Venomat")
 
-print('Loop 2')
+print("\nLoop 2:")
 for i in range(10):
-    if i >= 5: 
-         print('Pikachu')
-    else: 
-        print('Venomat')
+    if i >= 5:
+        print(" Pikachu")
+    else:
+        print(" Venomat")
